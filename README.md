@@ -20,7 +20,7 @@ You can reach me at:
   - Contact No. : +91 9023414274
   - Mailing Address: 022, HB-2, Manipal Institute of Technology, Bangalore
 
-Here's some external tidbits about me, so to speak:
+Here's some information about me, so to speak:
 
 ![](https://www.codewars.com/users/randomaccessvemuri_/badges/large)
 
@@ -31,3 +31,9 @@ Here's some external tidbits about me, so to speak:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=randomaccessvemuri&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=randomaccessvemuri&theme=tokyonight&utcOffset=8)
+
+Proof for Google Foobar Challenge:
+
+![](foobar1.jpg)
+
+⚡*Fun fact:* I'm still in the challenge and at any time I can start the next challenge, I'm just hoping to be a bit more....*educated* the next time I go for it.
