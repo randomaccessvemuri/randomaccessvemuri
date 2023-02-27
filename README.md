@@ -1,16 +1,33 @@
-### Hi there 👋
+## Greetings from yours truly!
 
-<!--
-**randomaccessvemuri/randomaccessvemuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tanmay Vemuri. I'm a student at Manipal Institute of Technology, Bangalore and as such I'm quite clueless about the world with the confidence that everything will eventually fall into place.
 
-Here are some ideas to get you started:
+Looking to learn, earn and kick ass, all with my keyboard, trusty laptop and coffee ☕
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡**Fun fact**: I'm a coffee addict 😅
+
+I'm Currently working on:
+  - VisRT: A Metropolis Light Transport Renderer that uses OptiX and optimizes meshes and other stuff before-render, implementing some other optimizations as well.
+  - ParallelFin: A finance library/application that implements parallelism and concurrency from the get-go (CPU only)  
+  
+I'm currently learning: Data structures & Algorithms from GeeksForGeeks.
+
+I’m looking for help with contributing to open source projects.
+
+You can reach me at:
+  - Student Mail: tanmay2.mitblr2022@learner.manipal.edu
+  - Personal Mail: tanmay.vemuri22315@gmail.com
+  - Contact No. : +91 9023414274
+  - Mailing Address: 022, HB-2, Manipal Institute of Technology, Bangalore
+
+Here's some external tidbits about me, so to speak:
+
+![](https://www.codewars.com/users/randomaccessvemuri_/badges/large)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=randomaccessvemuri&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=randomaccessvemuri&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=randomaccessvemuri&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=randomaccessvemuri&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=randomaccessvemuri&theme=tokyonight&utcOffset=8)
