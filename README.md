@@ -19,8 +19,13 @@ You can reach me at:
   - Personal Mail: tanmay.vemuri22315@gmail.com
   - Contact No. : +91 9023414274
   - Mailing Address: 022, HB-2, Manipal Institute of Technology, Bangalore
+  - [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-vemuri-213ba8256/)
+ 
+
 
 Here's some information about me, so to speak:
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/tanmay.vemuri22315)
 
 ![](https://www.codewars.com/users/randomaccessvemuri_/badges/large)
 
