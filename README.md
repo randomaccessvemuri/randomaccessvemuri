@@ -7,7 +7,7 @@ Looking to learn, earn and kick ass, all with my keyboard, trusty laptop and cof
 ⚡**Fun fact**: I'm a coffee addict 😅
 
 I'm Currently working on:
-  - **KaosFractals**: A project to demonstrate fractal flames
+  - **KaosFractals**: A project to demonstrate fractal flames and mandelbrot sets
   - **Prime archimedean spiral**: A project that plots out prime numbers on a polar coordinate system to demonstrate the archimedean spiral formed by them. 
   
 I'm currently learning: Data structures & Algorithms from GeeksForGeeks.
