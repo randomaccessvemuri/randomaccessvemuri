@@ -7,8 +7,8 @@ Looking to learn, earn and kick ass, all with my keyboard, trusty laptop and cof
 ⚡**Fun fact**: I'm a coffee addict 😅
 
 I'm Currently working on:
-  - VisRT: A Metropolis Light Transport Renderer that uses OptiX and optimizes meshes and other stuff before-render, implementing some other optimizations as well.
-  - ParallelFin: A finance library/application that implements parallelism and concurrency from the get-go (CPU only)  
+  - **KaosFractals**: A project to demonstrate fractal flames
+  - **Prime archimedean spiral**: A project that plots out prime numbers on a polar coordinate system to demonstrate the archimedean spiral formed by them. 
   
 I'm currently learning: Data structures & Algorithms from GeeksForGeeks.
 
