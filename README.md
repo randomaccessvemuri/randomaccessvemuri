@@ -7,17 +7,20 @@ Looking to learn, earn and kick ass, all with my keyboard, trusty laptop and cof
 ⚡**Fun fact**: I'm a coffee addict 😅
 
 I'm Currently working on:
-  - Foreign Exchange trading using Reinforcement learning (PPO-LSTM-PER)
+  - Migrating personal codebase to SYCL (DPC++)
+  - Studying for GATE
+  - Finding an internship
+  - Projects that focus on HPC (visual projects like path tracing, AI, cellular automata, fractals etc.)
   
-I'm currently learning: Data structures & Algorithms from GeeksForGeeks.
+I'm currently learning: SYCL coding for convenient, multi-platform parallelism
 
-I’m looking for help with contributing to open source projects.
+
 
 You can reach me at:
   - Student Mail: tanmay2.mitblr2022@learner.manipal.edu
   - Personal Mail: tanmay.vemuri22315@gmail.com
   - Contact No. : +91 9023414274
-  - Mailing Address: 022, HB-2, Manipal Institute of Technology, Bangalore
+  - Mailing Address: 226, HB-2, Manipal Institute of Technology, Bangalore
   - [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-vemuri-213ba8256/)
  
 
