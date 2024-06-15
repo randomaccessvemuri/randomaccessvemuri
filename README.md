@@ -7,12 +7,14 @@ Looking to learn, earn and kick ass, all with my keyboard, trusty laptop and cof
 ⚡**Fun fact**: I'm a coffee addict 😅
 
 I'm Currently working on:
-  - Migrating personal codebase to SYCL (DPC++)
+  - An Investment system to beat out major firms
   - Studying for GATE
   - Finding an internship
-  - Projects that focus on HPC (visual projects like path tracing, AI, cellular automata, fractals etc.)
+  - Projects that focus on Data Acquisiton
   
-I'm currently learning: SYCL coding for convenient, multi-platform parallelism
+I'm currently learning: 
+- Linear Algebra and its Applications: Gilbert Strang
+- Finance and Accounting for nonfinance managers - Drom and Wright
 
 
 
