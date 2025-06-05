@@ -1,20 +1,16 @@
 ## Greetings from yours truly!
 
-I'm Tanmay Vemuri. I'm a student at Manipal Institute of Technology, Bangalore and as such I'm quite clueless about the world with the confidence that everything will eventually fall into place.
-
-Looking to learn, earn and kick ass, all with my keyboard, trusty laptop and coffee ☕
-
-⚡**Fun fact**: I'm a coffee addict 😅
+I'm Tanmay Vemuri, a 3rd year student in Manipal Institute of Technology, Bangalore. On the side, I'm a musician and have a hobby for electronics.
 
 I'm Currently working on:
-  - An Investment system to beat out major firms
-  - Studying for GATE
-  - Finding an internship
-  - Projects that focus on Data Acquisiton
+  - Studying for The OSCP
+  - Building a Bio-suit capable of reading muscle activation in real-time
+  - Writing my first avant-garde metal album
   
 I'm currently learning: 
-- Linear Algebra and its Applications: Gilbert Strang
-- Finance and Accounting for nonfinance managers - Drom and Wright
+- Practical Electronics for Inventors
+- Penetration testing and Red teaming
+- Music Theory
 
 
 
@@ -45,4 +41,3 @@ Proof for Google Foobar Challenge:
 
 ![](foobar1.jpg)
 
-⚡*Fun fact:* I'm still in the challenge and at any time I can start the next challenge, I'm just hoping to be a bit more....*educated* the next time I go for it.
