@@ -4,13 +4,8 @@ I'm Tanmay Vemuri, a 3rd year student in Manipal Institute of Technology, Bangal
 
 I'm Currently working on:
   - Studying for The OSCP
-  - Building a Bio-suit capable of reading muscle activation in real-time
   - Writing my first avant-garde metal album
-  
-I'm currently learning: 
-- Practical Electronics for Inventors
-- Penetration testing and Red teaming
-- Music Theory
+  - Hitting 225 lbs Bench
 
 
 
